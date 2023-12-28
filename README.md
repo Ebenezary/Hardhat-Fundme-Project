@@ -33,9 +33,10 @@ To set up the project:
 
 In the `hardhat.config.js` file, you'll find environment configurations that can be set via environment variables or manually if needed. Here's a breakdown of these configurations:
 
-const SEPOLIA_RPC_URL = "ENTER YOUR RPC_URL";
-const ETHERSCAN_API_KEY = "ENTER YOUR API";
-const COINMARKETCAP_API_KEY = "ENTER YOUR API";
+```const SEPOLIA_RPC_URL = "ENTER YOUR RPC_URL";```
+```const ETHERSCAN_API_KEY = "ENTER YOUR API";```
+```const COINMARKETCAP_API_KEY = "ENTER YOUR API";```
+
 
 SEPOLIA_RPC_URL: Specifies the RPC URL for the Ethereum network. Replace "ENTER YOUR RPC_URL" with your specific RPC URL.
 ETHERSCAN_API_KEY: Represents the API key for Etherscan. Replace "ENTER YOUR API" with your specific Etherscan API key.
