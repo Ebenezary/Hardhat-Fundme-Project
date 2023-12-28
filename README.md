@@ -47,7 +47,7 @@ const COINMARKETCAP_API_KEY = "ENTER YOUR API";
 4. Ensure to set these values with your actual API keys or RPC URLs based on your development or deployment environment.
 
 ## Acknowledgments
-I would like to extend my gratitude to FreeCodeCamp for powering Patrick Collin's Solidity tutorial. The tutorial was immensely helpful in guiding me through various aspects of Solidity development. You can find the tutorial [here] (https://www.youtube.com/watch?v=gyMwXuJrbJQ).
+I would like to extend my gratitude to FreeCodeCamp for powering Patrick Collin's Solidity tutorial. The tutorial was immensely helpful in guiding me through various aspects of Solidity development. You can find the tutorial [here](https://www.youtube.com/watch?v=gyMwXuJrbJQ).
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the codebase:
