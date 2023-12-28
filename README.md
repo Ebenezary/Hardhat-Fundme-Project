@@ -41,12 +41,13 @@ const ETHERSCAN_API_KEY = "ENTER YOUR API";
 const COINMARKETCAP_API_KEY = "ENTER YOUR API";
 ```
 
-```SEPOLIA_RPC_URL:``` Specifies the RPC URL for the Ethereum network. Replace ```"ENTER YOUR RPC_URL"``` with your specific RPC URL.
-```ETHERSCAN_API_KEY:``` Represents the API key for Etherscan. Replace ```"ENTER YOUR API"``` with your specific Etherscan API key.
-```COINMARKETCAP_API_KEY:``` Denotes the API key for CoinMarketCap. Replace ```"ENTER YOUR API"``` with your specific CoinMarketCap API key. Ensure to set these values with your actual API keys or RPC URLs based on your development or deployment environment.
+1. ```SEPOLIA_RPC_URL:``` Specifies the RPC URL for the Ethereum network. Replace ```"ENTER YOUR RPC_URL"``` with your specific RPC URL.
+2. ```ETHERSCAN_API_KEY:``` Represents the API key for Etherscan. Replace ```"ENTER YOUR API"``` with your specific Etherscan API key.
+3. ```COINMARKETCAP_API_KEY:``` Denotes the API key for CoinMarketCap. Replace ```"ENTER YOUR API"``` with your specific CoinMarketCap API key. 
+4. Ensure to set these values with your actual API keys or RPC URLs based on your development or deployment environment.
 
 ## Acknowledgments
-I would like to extend my gratitude to FreeCodeCamp for powering Patrick's Solidity tutorial. The tutorial was immensely helpful in guiding me through various aspects of Solidity development. You can find the tutorial here.
+I would like to extend my gratitude to FreeCodeCamp for powering Patrick Collin's Solidity tutorial. The tutorial was immensely helpful in guiding me through various aspects of Solidity development. You can find the tutorial here.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the codebase:
